@@ -15,7 +15,9 @@
  * @return float La suma de los dos nÃºmeros.
  */
 function sumar($a, $b) {
-    return $a + $b;
+    //return $a + $b;
+    //Ahora introduzco este comentario y modifico mi función
+    return $b + $a;
 }
 
 
